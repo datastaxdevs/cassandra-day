@@ -20,7 +20,7 @@ Please attribute if using the following contents further.
 
 ## Additional tech talk resources
 
-[Github repo for the CDC=true tech talk](https://github.com/difli/twitter-sentimentr)
+[Github repo for the CDC=true tech talk](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 ## Hands-on workshop resources
 
