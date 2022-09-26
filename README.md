@@ -1,9 +1,10 @@
 # Cassandra Day Resources
 
 Here you will find slide decks and other
-useful material related to the Cassandra Days.
+useful material related to the Cassandra Days, the events all about
+Apache Cassandra™.
 
-Please attribute if using further.
+Please attribute if using the following contents further.
 
 ## Tech talk slide decks
 
@@ -14,3 +15,43 @@ Please attribute if using further.
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 
 [Stargate: an OSS API Layer for Cassandra](slides/cday_deck_stargate-oss-api-layer-for-cassandra.pdf)
+
+## Additional resources
+
+[Github repo for the CDC=true tech talk](https://github.com/difli/twitter-sentimentr)
+
+## Academy & Apache Cassandra™ Certification
+
+**DataStax sponsor your education!**
+To boost your Cassandra knowledge, take the FREE courses offered by DataStax
+at [academy.datastax.com](https://academy.datastax.com).
+
+Complete either the _Developer Path_ or the _Administrator path_ and take the
+certification exam: it'll be a powerful upgrade to your resume!
+
+Note: _participants of Cassandra Days are entitled to a voucher
+valid to take the certification exam **for free**
+(instead of the $145 exam cost)_
+
+## Get in touch, get help
+
+[Apache Cassandra main website](https://cassandra.apache.org/)
+
+[Official Cassandra Slack](https://s.apache.org/slack-invite)
+
+[Follow "cassandra" on StackOverflow](https://stackoverflow.com/questions/tagged/cassandra)
+
+[Follow "cassandra" on DBA StackExchange](https://dba.stackexchange.com/questions/tagged/cassandra)
+
+[DataStax Developers](https://dtsx.io/discord) on Discord
+(questions, support, almost anything Cassandra- and developer-related)
+
+### Attribution statement
+
+> Apache Cassandra, Cassandra and Apache are either registered trademarks or
+> trademarks of the [Apache Software Foundation](http://www.apache.org/)
+> in the United States and/or
+> other countries, and are [used with permission](http://www.apache.org/foundation/marks/events.html).
+> The Apache Software Foundation has no affiliation with and does not
+> endorse or review the materials provided at this event,
+> which is managed by DataStax.
