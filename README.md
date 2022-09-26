@@ -18,13 +18,26 @@ Please attribute if using the following contents further.
 
 [CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf)
 
-## Additional resources
+## Additional tech talk resources
 
 [Github repo for the CDC=true tech talk](https://github.com/difli/twitter-sentimentr)
 
+## Hands-on workshop resources
+
+[Slide deck for "Cassandra Fundamental" workshop](cday_workshop_deck_cassandra-fundamentals.pdf)
+
+[Slide deck for "Data Modeling & App Development" workshop](cday_workshop_deck_data-modeling-and-app-development.pdf)
+
+[Workshop 2 companion repo](https://dtsx.io/cday-ws2)
+
+Full self-contained course repositories:
+[Fundamentals](https://github.com/datastaxdevs/workshop-cassandra-fundamentals#readme),
+[Data modeling](https://github.com/datastaxdevs/workshop-cassandra-data-modeling#readme),
+[App Development](https://github.com/datastaxdevs/workshop-cassandra-application-development#readme)
+
 ## Academy & Apache Cassandra™ Certification
 
-**DataStax sponsor your education!**
+**DataStax sponsors your education!**
 To boost your Cassandra knowledge, take the FREE courses offered by DataStax
 at [academy.datastax.com](https://academy.datastax.com).
 
@@ -57,3 +70,4 @@ valid to take the certification exam **for free**
 > The Apache Software Foundation has no affiliation with and does not
 > endorse or review the materials provided at this event,
 > which is managed by DataStax.
+
