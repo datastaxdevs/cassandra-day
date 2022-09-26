@@ -1,5 +1,7 @@
 # Cassandra Day Resources
 
+![Cassandra Days banner](images/cdays_banner.png)
+
 Here you will find slide decks and other
 useful material related to the Cassandra Days, the events all about
 Apache Cassandra™.
@@ -8,13 +10,13 @@ Please attribute if using the following contents further.
 
 ## Tech talk slide decks
 
-[5 Pitfalls of a Cassandra Developer](slides/cday_deck_5-pitfalls-of-cassandra-developer.pdf)
-
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf)
-
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 
+[5 Pitfalls of a Cassandra Developer](slides/cday_deck_5-pitfalls-of-cassandra-developer.pdf)
+
 [Stargate: an OSS API Layer for Cassandra](slides/cday_deck_stargate-oss-api-layer-for-cassandra.pdf)
+
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf)
 
 ## Additional resources
 
