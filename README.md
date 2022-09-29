@@ -24,9 +24,9 @@ Please attribute if using the following contents further.
 
 ## Hands-on workshop resources
 
-[Slide deck for "Cassandra Fundamental" workshop](cday_workshop_deck_cassandra-fundamentals.pdf)
+[Slide deck for "Cassandra Fundamental" workshop](slides/workshops/cday_workshop_deck_cassandra-fundamentals.pdf)
 
-[Slide deck for "Data Modeling & App Development" workshop](cday_workshop_deck_data-modeling-and-app-development.pdf)
+[Slide deck for "Data Modeling & App Development" workshop](slides/workshops/cday_workshop_deck_data-modeling-and-app-development.pdf)
 
 [Workshop 2 companion repo](https://dtsx.io/cday-ws2)
 
