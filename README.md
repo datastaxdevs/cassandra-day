@@ -61,6 +61,16 @@ valid to take the certification exam **for free**
 [DataStax Developers](https://dtsx.io/discord) on Discord
 (questions, support, almost anything Cassandra- and developer-related)
 
+## Cassandra Day instructors
+
+[Aleks Volochnev](https://dtsx.io/aleks
+) - LinkedIn `@aleks-volochnev`, Github `@HadesArchitect`
+
+[Cédrick Lunven](https://dtsx.io/cedrick) - Twitter `@clunven`
+
+[Stefano Lottini](https://dtsx.io/stefano
+) - LinkedIn `@stefano-lottini`, Github `@hemidactylus`, Twitter `@rsprrs`
+
 ### Attribution statement
 
 > Apache Cassandra, Cassandra and Apache are either registered trademarks or
