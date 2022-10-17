@@ -18,6 +18,8 @@ Please attribute if using the following contents further.
 
 [CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf)
 
+[Cassandra 4.1 Guardrails](slides/cday_deck_guardrails.pdf)
+
 ## Additional tech talk resources
 
 [Github repo for the CDC=true tech talk](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
