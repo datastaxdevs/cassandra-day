@@ -10,6 +10,8 @@ Please attribute if using the following contents further.
 
 ## Tech talk slide decks
 
+[Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation](slides/cday_deck_automating_ops_with_airflow_-_Rahul_Singh_Anant.pdf)
+
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 
 [5 Pitfalls of a Cassandra Developer](slides/cday_deck_5-pitfalls-of-cassandra-developer.pdf)
