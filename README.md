@@ -14,6 +14,29 @@ A good place to check the scheduled future Cassandra Day events
 is the Events section on the [Apache Cassandra website](https://cassandra.apache.org/_/events.html).
 
 
+## Table of Contents
+
+**Tech talks** by venue:
+
+- [Singapore (November 2022)](#cassandra-day-singapore-november-2022)
+- [Bellevue/Seattle (November 2022)](#cassandra-day-bellevueseattle-november-2022)
+- [Santa Clara (November 2022)](#cassandra-day-santa-clara-november-2022)
+- [Houston (November 2022)](#cassandra-day-houston-november-2022)
+- [Jakarta (November 2022)](#cassandra-day-jakarta-november-2022)
+- [Hanoi (November 2022)](#cassandra-day-hanoi-november-2022)
+- [Amsterdam (October 2022)](#cassandra-day-amsterdam-october-2022)
+- [London (October 2022)](#cassandra-day-london-october-2022)
+- [Berlin (September 2022)](#cassandra-day-berlin-september-2022)
+
+[**Workshop** slide decks & resources](#hands-on-workshop-resources)
+
+[**Certification** info](#academy--apache-cassandra-certification)
+
+[**Community**](#get-in-touch-get-help)
+
+[Your **Instructors**](#cassandra-day-instructors)
+
+
 
 
 ## Tech talk slide decks
@@ -21,27 +44,15 @@ is the Events section on the [Apache Cassandra website](https://cassandra.apache
 _Note: for your convenience, we group the files per venue. To do that, we often duplicate links across venues._
 
 
-### Cassandra Day Hanoi (November 2022)
+### Cassandra Day Singapore (November 2022)
+
+![Cassandra Day photo](photos/cday_singapore.png)
 
 [Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
 [Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
-
-<!-- Endowus Timmy Yuen -->
-
-[Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
-
-
-
-
-
-### Cassandra Day Jakarta (November 2022)
-
-[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
-
-[Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
 
 [Cassandra at Lightspeed - Michael Chong, Azul](slides/cday_deck_cassandra-at-lightspeed_-_Michael_Chong_Azul.pdf)
 
@@ -55,17 +66,23 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Bellevue/Seattle (November 2022)
 
+![Cassandra Day photo](photos/cday_seattle.png)
+
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
 <!-- Quine -->
 
 [ACID Transactions in Apache Cassandra®](slides/cday_deck_acid-transactions-in-cassandra.pdf)
 
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+
 
 
 
 
 ### Cassandra Day Santa Clara (November 2022)
+
+![Cassandra Day photo](photos/cday_santaclara.png)
 
 <!-- Apple -->
 
@@ -79,6 +96,8 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Houston (November 2022)
 
+![Cassandra Day photo](photos/cday_houston.png)
+
 <!-- Apple -->
 
 <!-- Quine -->
@@ -90,17 +109,37 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 
 
-### Cassandra Day Singapore (November 2022)
+### Cassandra Day Jakarta (November 2022)
+
+![Cassandra Day photo](photos/cday_jakarta.png)
 
 [Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
 [Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
 
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+
 [Cassandra at Lightspeed - Michael Chong, Azul](slides/cday_deck_cassandra-at-lightspeed_-_Michael_Chong_Azul.pdf)
 
 [CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
-<!-- Endowus Codee Ong -->
+[Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
+
+
+
+
+
+### Cassandra Day Hanoi (November 2022)
+
+![Cassandra Day photo](photos/cday_hanoi.png)
+
+[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
+
+[Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
+
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
@@ -109,6 +148,8 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 
 ### Cassandra Day Amsterdam (October 2022)
+
+![Cassandra Day photo](photos/cday_amsterdam.png)
 
 [Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation](slides/cday_deck_automating_ops_with_airflow_-_Rahul_Singh_Anant.pdf)
 
@@ -124,6 +165,8 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day London (October 2022)
 
+![Cassandra Day photo](photos/cday_london.png)
+
 [Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation](slides/cday_deck_automating_ops_with_airflow_-_Rahul_Singh_Anant.pdf)
 
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
@@ -137,6 +180,8 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 
 ### Cassandra Day Berlin (September 2022)
+
+![Cassandra Day photo](photos/cday_berlin.png)
 
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 
@@ -201,19 +246,19 @@ valid to take the certification exam **for free**
 
 ## Cassandra Day instructors
 
-[Aleks Volochnev](https://dtsx.io/aleks) - LinkedIn `@aleks-volochnev`, Github `@HadesArchitect`
+👨🏽‍🏫 [Aleks Volochnev](https://dtsx.io/aleks) - LinkedIn `@aleks-volochnev`, Github `@HadesArchitect`
 
-[Cédrick Lunven](https://dtsx.io/cedrick) - Twitter `@clunven`
+👨🏽‍🏫 [Cédrick Lunven](https://dtsx.io/cedrick) - Twitter `@clunven`
 
-[Stefano Lottini](https://dtsx.io/stefano) - LinkedIn `@stefano-lottini`, Github `@hemidactylus`, Twitter `@rsprrs`
+👨🏽‍🏫 [Stefano Lottini](https://dtsx.io/stefano) - LinkedIn `@stefano-lottini`, Github `@hemidactylus`, Twitter `@rsprrs`
 
-Erick Ramirez - Linkedin `@ErickRamirez`, Github `@ErickRamirezAU`, Twitter `@ErickRamirezAU`
+👨🏽‍🏫 Erick Ramirez - Linkedin `@ErickRamirez`, Github `@ErickRamirezAU`, Twitter `@ErickRamirezAU`
 
-[Raghavan "Rags" Srinivas](https://dtsx.io/rags) - Linkedin `@rags`, Github `@ragsns`, Twitter `@ragss`
+👨🏽‍🏫 [Raghavan "Rags" Srinivas](https://dtsx.io/rags) - Linkedin `@rags`, Github `@ragsns`, Twitter `@ragss`
 
-Artem Chebotko - Linkedin `@ArtemChebotko`, Github `@ArtemChebotko`
+👨🏽‍🏫 Artem Chebotko - Linkedin `@ArtemChebotko`, Github `@ArtemChebotko`
 
-Aaron Ploetz - Linkedin `@aaronploetz`, Github `@aploetz`, Twitter `@aploetz`
+👨🏽‍🏫 Aaron Ploetz - Linkedin `@aaronploetz`, Github `@aploetz`, Twitter `@aploetz`
 
 ### Attribution statement
 
