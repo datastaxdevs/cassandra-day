@@ -48,15 +48,15 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ![Cassandra Day photo](photos/cday_singapore.png)
 
-[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
+[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf) - see also [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
 [Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
 
-[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf) - see also ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
 
 [Cassandra at Lightspeed - Michael Chong, Azul](slides/cday_deck_cassandra-at-lightspeed_-_Michael_Chong_Azul.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
@@ -74,7 +74,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 [ACID Transactions in Apache Cassandra®](slides/cday_deck_acid-transactions-in-cassandra.pdf)
 
-[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf) - see also ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
 
 
 
@@ -113,15 +113,15 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ![Cassandra Day photo](photos/cday_jakarta.png)
 
-[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
+[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf) - see also [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
 [Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
 
-[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf) - see also ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
 
 [Cassandra at Lightspeed - Michael Chong, Azul](slides/cday_deck_cassandra-at-lightspeed_-_Michael_Chong_Azul.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
@@ -133,13 +133,13 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ![Cassandra Day photo](photos/cday_hanoi.png)
 
-[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf), [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
+[Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf) - see also [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
 [Future of Cassandra, V2](slides/cday_deck_future-of-cassandra_V2.pdf)
 
-[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf), ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
+[Intel Contributions to a Faster Cassandra](slides/cday_deck_Intel-contributions-to-a-faster-cassandra.pdf) - see also ["Partner University" resources](https://partneruniversity.intel.com/learn/course/7000/intel-cloud-solution-architect-csa-tech-talk-workload-spotlight-java-optimizations)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
@@ -155,7 +155,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 [Cassandra 4.1 Guardrails](slides/cday_deck_guardrails.pdf)
 
@@ -173,7 +173,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 [5 Pitfalls of a Cassandra Developer](slides/cday_deck_5-pitfalls-of-cassandra-developer.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 
 
@@ -189,7 +189,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 [Stargate: an OSS API Layer for Cassandra](slides/cday_deck_stargate-oss-api-layer-for-cassandra.pdf)
 
-[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf), [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
+[CDC=true: leveraging Change Data Capture for Cassandra](slides/cday_deck_CDC-equals-true.pdf) - see also [Github demo repo](https://github.com/difli/cdc-to-kafka-for-twitter-sentimentr-up)
 
 
 
