@@ -31,6 +31,7 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ## Agenda
 
+| Time     |                                             |
 |----------|---------------------------------------------|
 | 9.00am   | Registrations                               |
 | 9.30am   | Keynote "Please stop using NoSQL"           |
@@ -48,21 +49,21 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ## Sponsors
 
-![DataStax](images/cday_datastax.png)
+![DataStax](images/logo_cday_datastax.png)
 
-![Intel](images/cday_intel.png)
+![Intel](images/logo_cday_intel.png)
 
-![Azul](images/cday_azul.png)
+![Azul](images/logo_cday_azul.png)
 
 ## Suppported by
 
-![EDBI Singapore](images/cday_edbi.png)
+![EDBI Singapore](images/logo_cday_edbi.png)
 
-![Indonesia Career Center Network](images/cday_iccn.png)
+![Indonesia Career Center Network](images/logo_cday_iccn.png)
 
-![She Loves Data](images/cday_sld.png)
+![She Loves Data](images/logo_cday_sld.png)
 
-![Big Dat a& AI World](images/cday_bdaw.png)
+![Big Dat a& AI World](images/logo_cday_bdaw.png)
 
 ## Support
 
