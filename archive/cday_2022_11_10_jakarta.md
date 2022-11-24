@@ -45,7 +45,6 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 | 11.45am  | Quiz, Prizes                                |
 | 12.00nn  | Lunch                                       |
 | 1.00pm   | Concludes                                   |
-|----------|---------------------------------------------|
 
 ## Sponsors
 
