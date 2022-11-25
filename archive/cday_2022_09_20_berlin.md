@@ -1,3 +1,5 @@
+_Note: this is an archived version of the event page._
+
 ![CDay green logo](images/cday_green_background.png)
 
 **Local/Regional Event · In-Person · EMEA**
