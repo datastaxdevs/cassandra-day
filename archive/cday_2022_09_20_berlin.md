@@ -10,7 +10,7 @@ _Discover the real power of NoSQL_
 
 ### Date
 
-Sept 20, 2022 | Thu, 9:00 AM - 1:00 PM WIB (UTC+07:00)
+Sept 20, 2022 | Thu, 9:30 AM - 20:00 PM CET (UTC+01:00)
 
 ### Price
 
