@@ -181,7 +181,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Berlin (September 2022)
 
-![Cassandra Day photo](photos/cday_berlin.png)
+[![Cassandra Day photo](photos/cday_berlin.png)](archive/cday_2022_09_20_berlin.md)
 
 [Future of Cassandra](slides/cday_deck_future-of-cassandra.pdf)
 

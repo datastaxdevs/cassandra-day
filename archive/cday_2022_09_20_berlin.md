@@ -1,14 +1,14 @@
 ![CDay green logo](images/cday_green_background.png)
 
-**Local/Regional Event · In-Person · Asia Pacific**
+**Local/Regional Event · In-Person · EMEA**
 
-# Cassandra Day | Jakarta
+# Cassandra Day | Berlin
 
 _Discover the real power of NoSQL_
 
 ### Date
 
-Nov 10, 2022 | Thu, 9:00 AM - 1:00 PM WIB (UTC+07:00)
+Sept 20, 2022 | Thu, 9:00 AM - 1:00 PM WIB (UTC+07:00)
 
 ### Price
 
@@ -16,7 +16,7 @@ Free
 
 ### Location
 
-Grand Hyatt
+Unicorn Workspaces, Brunnenstraße 64
 
 ## Overview
 
@@ -33,36 +33,24 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 | Time     |                                             |
 |----------|---------------------------------------------|
-| 9.00am   | Registrations                               |
-| 9.30am   | Keynote "Please stop using NoSQL"           |
-| 9.45am   | Cassandra in a nutshell                     |
-| 10.00am  | Unveiling the Future of Cassandra           |
-| 10.20am  | Intel’s contributions to a faster Cassandra |
-| 10.35am  | Morning Tea Break                           |
-| 10.50am  | Cassandra at Lightning Speed ( by Azul )    |
-| 11.05am  | Change Data Capture                         |
-| 11.25am  | Stargate, an OSS Api Layer for Cassandra    |
-| 11.45am  | Quiz, Prizes                                |
-| 12.00nn  | Lunch                                       |
-| 1.00pm   | Concludes                                   |
+| 9.30am   | Registrations                               |
+| 10.00am  | Hands-on workshop: "Cassandra Fundamentals" |
+| 11.45am  | Break                                       |
+| 12.30pm  | Hands-on workshop: "Cassandra Data Modeling"|
+| 14.00pm  | Afternoon registrations                     |
+| 15.00pm  | Keynote "Why you should stop using NOSQL" by Aleks Volochnev, IT Exorcist |
+| 15.30pm  | The Future of Cassandra by Mick Semb Wever, Cassandra PMC Member          |
+| 16.00pm  | Five Pitfalls of Cassandra developers and how to avoid them, by Cedrick Lunven |
+| 16.30pm  | Break                                       |
+| 16.40pm  | Stargate, an OSS Api Layer for Cassandra    |
+| 17.30pm  | cdc=true - Leveraging Change Data Capture (CDC) in Cassandra, by Dieter Flick  |
+| 18.00pm  | Quiz, Prizes, Food & Drinks                 |
 
 ## Sponsors
 
 ![DataStax](images/logo_cday_datastax.png)
 
 ![Intel](images/logo_cday_intel.png)
-
-![Azul](images/logo_cday_azul.png)
-
-## Suppported by
-
-![EDBI Singapore](images/logo_cday_edbi.png)
-
-![Indonesia Career Center Network](images/logo_cday_iccn.png)
-
-![She Loves Data](images/logo_cday_sld.png)
-
-![Big Dat a& AI World](images/logo_cday_bdaw.png)
 
 ## Support
 
