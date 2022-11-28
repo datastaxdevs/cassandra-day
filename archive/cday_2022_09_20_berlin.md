@@ -56,7 +56,7 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ### Contributions
 
-Cassandra Days are meant to help building and strengthening local communities around Open Source Cassandra. That does not only mean that everyone is invited to participate - contributions are very welcome! [Click here to submit to our Call For Papers](https://docs.google.com/forms/d/e/1FAIpQLSdiOo7V8aEeuWdVHjC4diU9Bn8Nt0G-fyJKfVMWolgZoseJCQ/viewform).
+Cassandra Days are meant to help building and strengthening local communities around Open Source Cassandra. That does not only mean that everyone is invited to participate - contributions are very welcome! [Click here to submit to our Call For Papers](https://dtsx.io/cdays-cfp).
 
 ### Attributions & Policy
 

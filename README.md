@@ -13,6 +13,7 @@ Please attribute if using the following contents further.
 A good place to check the scheduled future Cassandra Day events
 is the Events section on the [Apache Cassandra website](https://cassandra.apache.org/_/events.html).
 
+The upcoming events are also listed in our [Call for Papers](https://dtsx.io/cdays-cfp) form.
 
 ## Table of Contents
 
