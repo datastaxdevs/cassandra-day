@@ -4,13 +4,13 @@ _Note: this is an archived version of the event page._
 
 **Local/Regional Event · In-Person · EMEA**
 
-# Cassandra Day | Berlin
+# Cassandra Day | Amsterdam
 
 _Discover the real power of NoSQL_
 
 ### Date
 
-Sept 20, 2022 | Thu, 9:30 AM - 20:00 PM CET (UTC+01:00)
+Oct 13, 2022 | Thu, 9:30 AM - 20:00 PM CET (UTC+01:00)
 
 ### Price
 
@@ -18,7 +18,7 @@ Free
 
 ### Location
 
-Unicorn Workspaces, Brunnenstraße 64
+The A-Lab - Overhoeksplein 2
 
 ## Overview
 
@@ -37,20 +37,23 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 |----------|---------------------------------------------|
 | 9.30am   | Workshop registrations                      |
 | 10.00am  | Hands-on workshop: "Cassandra Fundamentals" |
-| 11.45am  | Break                                       |
+| 11.45am  | Lunch sponsored by Intel                    |
 | 12.30pm  | Hands-on workshop: "Cassandra Data Modeling"|
 | 14.00pm  | Afternoon registrations                     |
-| 15.00pm  | Keynote "Why you should stop using NOSQL" by Aleks Volochnev, IT Exorcist |
-| 15.30pm  | The Future of Cassandra by Mick Semb Wever, Cassandra PMC Member          |
-| 16.00pm  | Five Pitfalls of Cassandra developers and how to avoid them, by Cedrick Lunven |
-| 16.30pm  | Break                                       |
-| 16.40pm  | Stargate, an OSS Api Layer for Cassandra    |
-| 17.30pm  | cdc=true - Leveraging Change Data Capture (CDC) in Cassandra, by Dieter Flick  |
-| 18.00pm  | Quiz, Prizes, Food & Drinks                 |
+| 15.00pm  | Keynote "Why you should stop using NOSQL" by Aleks Volochnev, IT Exorcist            |
+| 15.30pm  | The Future of Cassandra by Mick Semb Wever, Cassandra PMC Member                     |
+| 15.55pm  | Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation |
+| 16.25pm  | Break                                       |
+| 16.35pm  | Five Pitfalls of Cassandra developers and how to avoid them, by Stefano Lottini      |
+| 17.05pm  | Live Demo: Cassandra 4.1 Guardrails, by Aleks Volochnev                              |
+| 17.25pm  | cdc=true - Leveraging Change Data Capture (CDC) in Cassandra, by Sami Kaksonen       |
+| 17.45pm  | Quiz, Prizes, Food & Drinks                 |
 
 ## Sponsors
 
 ![DataStax](images/logo_cday_datastax.png)
+
+![Intel](images/logo_cday_intel.png)
 
 ## Support
 

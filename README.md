@@ -149,7 +149,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Amsterdam (October 2022)
 
-![Cassandra Day photo](photos/cday_amsterdam.png)
+[![Cassandra Day photo](photos/cday_amsterdam.png)](archive/cday_2022_10_13_amsterdam.md)
 
 [Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation](slides/cday_deck_automating-ops-with-airflow_-_Rahul_Singh_Anant.pdf)
 
@@ -165,7 +165,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day London (October 2022)
 
-![Cassandra Day photo](photos/cday_london.png)
+[![Cassandra Day photo](photos/cday_london.png)](archive/cday_2022_10_11_london.md)
 
 [Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation](slides/cday_deck_automating-ops-with-airflow_-_Rahul_Singh_Anant.pdf)
 
