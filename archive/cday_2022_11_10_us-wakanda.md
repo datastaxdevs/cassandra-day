@@ -30,8 +30,8 @@ Don’t wait - we expect this event to “sell out” quickly. Pick your locatio
 
 General agenda (see next sections for venue-specific details)
 
-| Time       |                                              |
-|------------|----------------------------------------------|
+| Time           |                                              |
+|-------------------------|----------------------------------------------|
 |            | Hands-on Workshop (optional)                 |
 | 12-1 pm    | Check-in for Hands-on Workshop + Lunch       |
 | 1-3 pm     | Hands-on Workshop: Building data-driven applications with NoSQL and Apache Cassandra® (details below) |
@@ -116,49 +116,3 @@ The Apache Software Foundation has no affiliation with and does not endorse or r
 ### Anti-harassment Policy
 
 _DataStax is dedicated to a harassment-free experience for everyone. Our anti-harassment policy can be found [here](https://dtsx.io/cdays-anti-harassment-policy)._
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-What do companies like Apple, Netflix, Huawei and Instagram have in common? Aside from billions of requests, petabytes of data, and millions of users around the world, all of these companies use Apache Cassandra™.
-
-[Apache Cassandra](https://cassandra.apache.org/) is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
-
-### Test and Certify
-
-All attendees will be able to claim a free voucher for [DataStax certification for Apache Cassandra™ exam](https://www.datastax.com/dev/certifications)
-and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect platform to practice your newly-acquired Cassandra knowledge!
-
-## Agenda
-
-| Time     |                                             |
-|----------|---------------------------------------------|
-| 9.30am   | Workshop registrations                      |
-| 10.00am  | Hands-on workshop: "Cassandra Fundamentals" |
-| 11.45am  | Lunch sponsored by Intel                    |
-| 12.30pm  | Hands-on workshop: "Cassandra Data Modeling"|
-| 14.00pm  | Afternoon registrations                     |
-| 15.00pm  | Keynote "Why you should stop using NOSQL" by Aleks Volochnev, IT Exorcist            |
-| 15.30pm  | The Future of Cassandra by Mick Semb Wever, Cassandra PMC Member                     |
-| 15.55pm  | Automating Cassandra operations with Apache Airflow - Rahul Singh, Anant Corporation |
-| 16.25pm  | Break                                       |
-| 16.35pm  | Five Pitfalls of Cassandra developers and how to avoid them, by Stefano Lottini      |
-| 17.05pm  | Live Demo: Cassandra 4.1 Guardrails, by Aleks Volochnev                              |
-| 17.25pm  | cdc=true - Leveraging Change Data Capture (CDC) in Cassandra, by Sami Kaksonen       |
-| 17.45pm  | Quiz, Prizes, Food & Drinks                 |
-
-## Sponsors
-
-![DataStax](images/logo_cday_datastax.png)
-

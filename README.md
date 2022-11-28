@@ -67,7 +67,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Bellevue/Seattle (November 2022)
 
-![Cassandra Day photo](photos/cday_seattle.png)
+[![Cassandra Day photo](photos/cday_seattle.png)](archive/cday_2022_11_10_us-wakanda.md)
 
 [Stargate: an OSS API Layer for Cassandra, V2](slides/cday_deck_stargate-oss-api-layer-for-cassandra_V2.pdf)
 
@@ -83,7 +83,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Santa Clara (November 2022)
 
-![Cassandra Day photo](photos/cday_santaclara.png)
+[![Cassandra Day photo](photos/cday_santaclara.png)](archive/cday_2022_11_10_us-wakanda.md)
 
 <!-- Apple -->
 
@@ -97,7 +97,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Houston (November 2022)
 
-![Cassandra Day photo](photos/cday_houston.png)
+[![Cassandra Day photo](photos/cday_houston.png)](archive/cday_2022_11_10_us-wakanda.md)
 
 <!-- Apple -->
 
