@@ -47,7 +47,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Singapore (November 2022)
 
-![Cassandra Day photo](photos/cday_singapore.png)
+[![Cassandra Day photo](photos/cday_singapore.png)](archive/cday_2022_11_15_singapore.md)
 
 [Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf) - see also [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
