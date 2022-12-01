@@ -64,7 +64,7 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ![She Loves Data](images/logo_cday_sld.png)
 
-![Big Dat a& AI World](images/logo_cday_bdaw.png)
+![Big Data & AI World](images/logo_cday_bdaw.png)
 
 ## Support
 

@@ -4,13 +4,13 @@ _Note: this is an archived version of the event page._
 
 **Local/Regional Event · In-Person · Asia Pacific**
 
-# Cassandra Day | Singapore
+# Cassandra Day | Hanoi
 
 _Discover the real power of NoSQL_
 
 ### Date
 
-Nov 15, 2022 | Tue, 9:00 AM - 1:00 PM +08 (UTC+08:00)
+Nov 8, 2022 | Tue, 9:00 AM - 3:00 PM ICT (UTC+07:00)
 
 ### Price
 
@@ -18,7 +18,7 @@ Free
 
 ### Location
 
-PARKROYAL COLLECTION Pickering
+Intercontinental Landmark72
 
 ## Overview
 
@@ -39,14 +39,14 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 | 9.30am   | Keynote "Please stop using NoSQL"           |
 | 9.45am   | Cassandra in a nutshell                     |
 | 10.00am  | Unveiling the Future of Cassandra           |
-| 10.20am  | Intel’s contributions to a faster Cassandra |
-| 10.35am  | Morning Tea Break                           |
-| 10.50am  | Cassandra at Lightning Speed ( by Azul )    |
-| 11.05am  | Change Data Capture                         |
+| 10.10am  | Intel’s contributions to a faster Cassandra |
+| 10.25am  | Morning Tea Break                           |
+| 10.45am  | Change Data Capture                         |
+| 11.05am  | Unlocking Engineering Productivity: A Cassandra cluster for every developer (and Kafka, K8s, and Postgres too!) |
 | 11.25am  | Stargate, an OSS Api Layer for Cassandra    |
-| 11.45am  | Quiz, Prizes                                |
-| 12.00nn  | Lunch                                       |
-| 1.00pm   | Concludes                                   |
+| 11.45am  | Lunch
+| 1.00pm   | Quiz, Prizes                                |
+| 3.00pm   | Concludes                                   |
 
 ## Sponsors
 
@@ -55,18 +55,6 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 ![Intel](images/logo_cday_intel.png)
 
 ![Azul](images/logo_cday_azul.png)
-
-## Suppported by
-
-![EDBI Singapore](images/logo_cday_edbi.png)
-
-![SIT Geeks](images/sit_geeks.png)
-
-![She Loves Data](images/logo_cday_sld.png)
-
-![NYP Nanyang](images/nyp_nanyang.png)
-
-![Big Data & AI World](images/logo_cday_bdaw.png)
 
 ## Support
 

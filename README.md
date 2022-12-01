@@ -132,7 +132,7 @@ _Note: for your convenience, we group the files per venue. To do that, we often 
 
 ### Cassandra Day Hanoi (November 2022)
 
-![Cassandra Day photo](photos/cday_hanoi.png)
+[![Cassandra Day photo](photos/cday_hanoi.png)](archive/cday_2022_11_08_hanoi.md)
 
 [Cassandra in a Nutshell](slides/cday_deck_cassandra-in-a-nutshell.pdf) - see also [Github hands-on practice](https://github.com/datastaxdevs/conference-2022-devoxx/blob/main/CASSANDA.MD)
 
