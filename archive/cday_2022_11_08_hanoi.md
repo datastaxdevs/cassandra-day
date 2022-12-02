@@ -56,6 +56,14 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ![Azul](images/logo_cday_azul.png)
 
+## Suppported by
+
+![AWS](images/logo_cday_aws.png)
+
+![Swinburne University of Technology](images/logo_cday_swinburne.png)
+
+![She Loves Data](images/logo_cday_sld.png)
+
 ## Support
 
 ### Contributions

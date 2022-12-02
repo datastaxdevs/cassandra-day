@@ -60,11 +60,11 @@ and $300 credit to use on [Astra DB](https://astra.datastax.com/) - The perfect 
 
 ![EDBI Singapore](images/logo_cday_edbi.png)
 
-![SIT Geeks](images/sit_geeks.png)
+![SIT Geeks](images/logo_cday_sit_geeks.png)
 
 ![She Loves Data](images/logo_cday_sld.png)
 
-![NYP Nanyang](images/nyp_nanyang.png)
+![NYP Nanyang](images/logo_cday_nyp_nanyang.png)
 
 ![Big Data & AI World](images/logo_cday_bdaw.png)
 
